@@ -27,10 +27,10 @@ A modern, responsive portfolio website showcasing real-world AWS cloud engineeri
 
 This portfolio website showcases my journey as an intermediate AWS Cloud Engineer, featuring production-style projects that solve real business problems. The site demonstrates practical cloud engineering skills through cost optimization, automation, monitoring, and AI-powered solutions built on AWS infrastructure.
 
-## ✨ Features
 <img width="1478" height="971" alt="Screenshot 2025-12-05 103919" src="https://github.com/user-attachments/assets/80ee11c7-204c-4138-acc4-4449dfbe7892" />
 <img width="1918" height="905" alt="Screenshot 2025-12-05 103750" src="https://github.com/user-attachments/assets/a6ea2432-f2e2-46bb-b1f4-29fecb0203d8" />
 
+## ✨ Features
 
 - **Responsive Design** - Fully mobile-friendly layout
 - **Modern UI/UX** - Clean, professional design with smooth animations
